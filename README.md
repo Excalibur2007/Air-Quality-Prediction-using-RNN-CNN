@@ -1,1 +1,1 @@
-# Air-Quality-Prediction-using-RNN-CNN
+# Air-Quality-Prediction-using-RNN and CNN
